@@ -10,4 +10,10 @@ group by
 aggregate function
 
 having
+
+
 order by asc/desc
+limit
+offset
+
+union,union all
