@@ -16,4 +16,4 @@ order by asc/desc
 limit
 offset
 
-union,union all
+union,union all,intersect,except
